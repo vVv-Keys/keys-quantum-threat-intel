@@ -2,7 +2,7 @@ Quantum Threat Intelligence (QTI) is a cutting-edge cybersecurity framework deve
 ---
 
 # 🧠 Quantum Threat Intelligence© (QTI)©  
-**Originated by Skyler "Keys" Piatiak, Founder of KeysGuard**  
+**Originated by "Keys" , Founder of KeysGuard**  
 _Concept Timestamp: 2025-07-16  
 _Distributed via public GitHub, self-email verification, and NSA SOS publication_
 
